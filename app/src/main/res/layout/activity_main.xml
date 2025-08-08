@@ -6,8 +6,9 @@
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/btnSwitch"
+        android:id="@+id/changeIpButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Сменить IP" />
+
 </LinearLayout>
